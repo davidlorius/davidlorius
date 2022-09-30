@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=for-the-badge)](https://twitter.com/jelidleon)
 [![](https://img.shields.io/badge/-blog-EE3E5D?style=for-the-badge)](https://www.davfl.com.mx/)
 
-<img align="right" src="https://i.imgur.com/Ba46xcV.png" data-canonical-src="https://i.imgur.com/Ba46xcV.png" width="auto" height="180" />
+<img align="left" src="https://i.imgur.com/Ba46xcV.png" data-canonical-src="https://i.imgur.com/Ba46xcV.png" width="auto" height="148" />
 
 ### About me
 
