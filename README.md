@@ -12,7 +12,7 @@ Professional in technology of information (informatic), webmaster by conviction,
 
 Hobbies/Interests 💘️ 🤖️ 👾️ 🚀️ 🚴‍ 🐶️ 🌸️
 
-Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete confiada de enviarme algún saludo en mis redes sociales. 😎️
+Soy de México 🇲🇽 , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete confiada de enviarme algún saludo en mis redes sociales. 😎️
 
 ### Languages
 
