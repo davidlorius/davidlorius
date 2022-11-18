@@ -28,3 +28,7 @@ PyCharm, VSCode, Django, Git, Github, GitLab (self-hosted), Docker, Terraform, A
 
 DevOps, Agile, Kanban, SCRUM, ITIL, PMP, Cascade, Ethical hacking.
 
+## Badges
+
+[![@davidlorius's Holopin board](https://holopin.me/davidlorius)](https://holopin.io/@davidlorius)
+
